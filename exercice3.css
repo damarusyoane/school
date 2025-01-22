@@ -1,0 +1,6 @@
+body{background-color: blueviolet;}
+#second{font-weight: bold;}
+.first{font-style: italic;}
+.item-highlight{color: blue;}
+[class^="a"]{background-color: yellow;}
+[class$="date"]{background-color: green;}
